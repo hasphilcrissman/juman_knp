@@ -39,6 +39,8 @@ p j.array_of(20)
 
 ##Methods
 
+juman_knp's methods  is as follows.  
+
   new(dtring, id, pos) : 初期化。text(文字列)を解析したインスタンスを作成。
                           idとposはデフォルトでnilになっている。
                           id(文章のIDや、タイトルなどを想定)はなんでもよいけど、文字列推奨。
