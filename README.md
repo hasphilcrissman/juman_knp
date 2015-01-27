@@ -46,7 +46,6 @@ tex = "学問の発展はこの世の中をより良いものにする。"
 k = Knp.new(tex)
 index = 0
 k.pa_arr[0].each do |a|
-  a.map!{|e| e.encode!("Windows-31J", "UTF-8", :invalid => :replace, :undef => :replace, :replace => '')}
   header = a.delete_at(0)
   print(index, " : ", a.map{|word| word = word.split(/\s/)[0]}.join("."), " ⇒ ", header.split(/\s/)[1])
   print("\n")
