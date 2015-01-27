@@ -1,6 +1,6 @@
 # JumanKnp
 
-wrapper of Juman and Kna by Ruby
+wrapper of JUMAN and KNP by Ruby
 
 ## Installation
 
@@ -19,6 +19,8 @@ Or install it yourself as:
     $ gem install juman_knp
 
 ## Usage
+
+Before you use this gem package, please make the path to JUMAN and KNP.
 
 ```ruby
 # -------------
