@@ -65,7 +65,7 @@ end
 
 ##Methods
 
-juman_knp's methods  is as follows.  
+juman_knp's methods  are as follows.  (Sorry fo Juman only)
 
      new(string, id, pos) : 初期化。text(文字列)を解析したインスタンスを作成。
                             idとposはデフォルトでnilになっている。
